@@ -36,6 +36,10 @@ an = {
 }
 hi(an)
 
+class Podrug:
+    def __init__(self, info):
+        self.info = info
+
 
 
 
